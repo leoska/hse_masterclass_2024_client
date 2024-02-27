@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _host: ws://127.0.0.1:8000
-  _id: 2
+  _id: 1
   _freqSend: 20
   _ball: {fileID: 1132077804}
   _platformLeft: {fileID: 317370590}
